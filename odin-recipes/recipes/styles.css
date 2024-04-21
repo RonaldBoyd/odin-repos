@@ -1,6 +1,8 @@
 body {
 font-family: "Helvetica Narrow", sans-serif;
 background-color: #dddd00;
+width:40em;
+margin: auto;
 }
 img{
 height: 30em;
